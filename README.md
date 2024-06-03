@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @farshad-zamiri
+# 👋 About me:https://github.com/farshad-zamiri/farshad-zamiri/blob/main/README.md
 - 👀 I’m interested in embedded systems
+# How to Reach me?
 - 📫 farshadzamiri@gmail.com
 - 📫 https://www.linkedin.com/in/farshad-zamiri-069ba1146?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2F%2BFM9DfHSfWM0q4WKBb7yQ%3D%3D
 - 
